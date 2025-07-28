@@ -1,0 +1,7 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.pkl
+*.safetensors
+.DS_Store
+.env

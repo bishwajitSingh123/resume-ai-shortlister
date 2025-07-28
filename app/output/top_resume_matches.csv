@@ -1,0 +1,6 @@
+Resume Name,Predicted Category,Match With JD,Match %,Confidence,ATS Score
+15573418.pdf,BANKING,✅ Match,49.23,❌ Resume needs optimization,61.54
+16492045.pdf,BPO,🔴 Not Match,44.31,❌ Resume needs optimization,42.59
+11183737.pdf,AVIATION,🔴 Not Match,43.22,❌ Resume needs optimization,49.93
+13964744.pdf,CONSULTANT,🔴 Not Match,41.99,❌ Resume needs optimization,53.19
+15145575.pdf,INFORMATION-TECHNOLOGY,🔴 Not Match,40.04,❌ Resume needs optimization,48.02
