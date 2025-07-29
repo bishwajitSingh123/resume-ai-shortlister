@@ -30,9 +30,6 @@ git clone https://github.com/bishwajitSingh123/resume-ai-shortlister.git
 cd resume-ai-shortlister
 pip install -r requirements.txt
 streamlit run app/main.py
-📬 Contact
-Bishwajit Singh
-🔗 LinkedIn | 🐙 GitHub
 
 ⭐ Show Support
 If you liked it, give it a ⭐ and share it!
