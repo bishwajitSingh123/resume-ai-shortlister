@@ -1,20 +1,38 @@
-# 🧠 Resume AI Shortlister
+# 💼 AI-Powered Resume Matcher
 
-An AI-powered resume shortlisting app built with **Streamlit** and **Sentence-Transformers**.
+An AI-based app to match resumes with job descriptions using NLP techniques and embeddings. Built with Streamlit for UI, and integrated with Azure Databricks for processing.
 
-## Features
-- Upload Job Descriptions (JDs)
-- Match Resumes based on semantic similarity
-- Visualize top matches
+---
 
-## Tech Stack
-- Streamlit
-- Sentence Transformers
-- Scikit-learn
-- Pandas, NumPy
-- PDFMiner & PyMuPDF
+## 🚀 Features
 
-## Run Locally
+- 📄 Upload Resume & JD
+- 🧠 NLP-based Keyword Extraction
+- 📌 Resume ↔ JD Matching Score
+- 📊 Simple and Interactive Streamlit UI
+- ☁️ Azure Databricks Processing (Optional)
+
+---
+
+## 🧠 Tech Stack
+
+- Python, Streamlit
+- scikit-learn, TF-IDF, Spacy
+- Azure, Databricks (Cloud)
+- PDF Processing, Cosine Similarity
+
+---
+
+## 🛠️ Setup Instructions
+
 ```bash
+git clone https://github.com/bishwajitSingh123/resume-ai-shortlister.git
+cd resume-ai-shortlister
 pip install -r requirements.txt
 streamlit run app/main.py
+📬 Contact
+Bishwajit Singh
+🔗 LinkedIn | 🐙 GitHub
+
+⭐ Show Support
+If you liked it, give it a ⭐ and share it!
